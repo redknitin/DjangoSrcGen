@@ -1,0 +1,4 @@
+DjangoSrcGen
+============
+
+Django Source Generator
